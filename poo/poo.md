@@ -8,7 +8,7 @@
 - Rompe com a ideia de tentar representar ordens, e passa a tentar representar coisas do mundo real.
 
 
-## Conceitos Chaves
+## Conceitos Chave
 - Foco do paradigma:
   
         Como o próprio nome implica, esse paradigma é centrado nos objetos, objetos esses que possuem informações(atributos) e funcoes(métodos), essas peças formam partes de um software, que busca através desse modo, um meio de facilitar a debugagem, teste, desenvolvimento e produção.
