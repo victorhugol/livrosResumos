@@ -2,6 +2,15 @@
 
  Este resumo pretende ajudar quem quer aprender POO. O que for escrito aqui, vai tentar ser feito da maneira mais simples possível, para que o entendimento seja alcançado por completo.
 
+
+##  Exemplos de Código
+
+-   [C++](https://github.com/victorhugol/livrosResumos/blob/master/poo/c%2B%2B.md)
+-   [Python](https://github.com/victorhugol/livrosResumos/blob/master/poo/python.md)
+-   [Dart](google.com)
+-   [Java](https://github.com/victorhugol/livrosResumos/blob/master/poo/java.md)
+
+
 ## POO
 
 - É um paradigma de programação, em outras palavras, um modo de programar.
@@ -25,3 +34,5 @@
 ---
 
 ##  Heranca
+
+>Pensar em reaproveitamento, é exatamente aquilo que a herança faz. Pega os métodos e objetos da classe pai e traz para si.
