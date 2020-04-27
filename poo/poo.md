@@ -21,3 +21,7 @@
 ### Paradigmas
 
 > Existem alguns paradigmas que são famosos, e suas aplicações dependem do resultado esperado, POO pode ser visto de maneira recorrente quando se fala de Java, porém quando o assunto é Programação Funcional, o Javascript sai na frente, porque no contexto em que o JS é empregado, programar funcionalmente faz mais sentido.
+
+---
+
+##  Heranca
