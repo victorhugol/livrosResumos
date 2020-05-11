@@ -20,7 +20,10 @@ public class Chicken {
 
 
 public class Chick extends Chicken{
-
+  public Chick(){
+    // ´e preciso chamar o construtor da classe mãe
+    super();
+  }
 }
 
 ~~~
