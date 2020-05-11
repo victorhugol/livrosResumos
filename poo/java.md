@@ -25,4 +25,4 @@ public class Chick extends Chicken{
 
 ~~~
 
-Agora ao tentar instaciar o Chick, teremos através dele os métodos e atributos da Classe pai/mãe.
+Agora ao tentar instanciar o Chick, teremos através dele os métodos e atributos da Classe pai/mãe.

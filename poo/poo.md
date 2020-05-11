@@ -33,6 +33,6 @@
 
 ---
 
-##  Heranca
+##  Herança
 
 >Pensar em reaproveitamento, é exatamente aquilo que a herança faz. Pega os métodos e atributos da classe pai e traz para si.
